@@ -18,6 +18,6 @@
   "homepage": "https://github.com/mvoevodskiy/botcms-messages#readme",
   "dependencies": {
     "mysql": "^2.17.1",
-    "typeorm": "^0.2.19"
+    "typeorm": "^0.2.25"
   }
 }
